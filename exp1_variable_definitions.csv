@@ -1,0 +1,9 @@
+Column name,Description
+participant_id,Participant identifier
+TRIAL_INDEX,The order the trial was presented in a given experimental session (starts at 1)
+CURRENT_FIX_INDEX,The order of fixations in a given trial (starts at 2)
+CURRENT_FIX_DURATION,The duration of the current fixation in MS
+CURRENT_FIX_INTEREST_AREA_LABEL,The label of the interest area of the current fixation
+NEXT_FIX_INTEREST_AREA_LABEL,The label of the interest area of the following fixation
+Left_Value,The BDM value of the item in the left presentation box in British pounds (ranging between 0-3)
+UR_Value,The BDM value of the item in the right presentation box in British pounds (ranging between 0-3)

@@ -1,0 +1,18 @@
+Column name,Description
+participant_id,Participant identifier
+TRIAL_INDEX,The order the trial was presented in a given experimental session (starts at 5 because the first 4 trials were practice trials not included in data analyses)
+CURRENT_FIX_INDEX,The order of fixations in a given trial (starts at 1)
+CURRENT_FIX_DURATION,The duration of the current fixation in MS
+CURRENT_FIX_INTEREST_AREA_DWELL_TIME,The total dwell time in the interest area of the current fixation throughout the trial in MS
+CURRENT_FIX_START,The start of the current fixation relative to trial onset in MS
+CURRENT_FIX_END,The end of the current fixation relative to trial onset in MS
+CURRENT_FIX_INTEREST_AREA_LABEL,The label of the interest area of the current fixation
+NEXT_FIX_INTEREST_AREA_LABEL,The label of the interest area of the following fixation
+UL_Item,The image name of the image presented in the upper left presentation box
+UL_Value,The BDM value of the item in the upper left presentation box in British pounds (ranging between 0-3)
+UR_Item,The image name of the image presented in the upper right presentation box
+UR_Value,The BDM value of the item in the upper right presentation box in British pounds (ranging between 0-3)
+LL_Item,The image name of the image presented in the lower left presentation box
+LL_Value,The BDM value of the item in the lower left presentation box in British pounds (ranging between 0-3)
+LR_Item,The image name of the image presented in the lower right presentation box
+LR_Value,The BDM value of the item in the lower right presentation box in British pounds (ranging between 0-3)
